@@ -1,6 +1,6 @@
 # LCD_Controlador
 ## Explicación 
-Se realizó con VHDL un controlador para un display LCD. Teniendo una inicialización y un modo libre, en donde se podrían enviar tanto instrucciones como datos. Para esto se realizó una máquina de estados (cinco estados). La inicialización constaba de cuatro pasos, los cuales eran los siguentes:
+Se realizó con VHDL un [controlador](https://github.com/Miguelelizondov/LCD_Controlador/blob/master/lcd_2parcial.vhdl) para un display LCD. Teniendo una inicialización y un modo libre, en donde se podrían enviar tanto instrucciones como datos. Para esto se realizó una máquina de estados (cinco estados). La inicialización constaba de cuatro pasos, los cuales eran los siguentes:
   1. Display Clear
   1. Function Set
   1. Display on/off control
