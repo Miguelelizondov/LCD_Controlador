@@ -1,0 +1,7 @@
+v 4
+file . "lcd_2parcial_tb.vhdl" "cf7a2977d9363d3ec182ad2dadb520f150879db6" "20200512050915.743":
+  entity lcd_2parcial_tb at 1( 0) + 0 on 119;
+  architecture arch of lcd_2parcial_tb at 9( 158) + 0 on 120;
+file . "lcd_2parcial.vhdl" "bf06071ce1234020f1d8ad35de8cdd9036aa316a" "20200512050915.696":
+  entity lcd_2parcial at 1( 0) + 0 on 117;
+  architecture arch of lcd_2parcial at 9( 231) + 0 on 118;
